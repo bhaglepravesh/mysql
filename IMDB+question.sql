@@ -9,7 +9,6 @@ USE imdb;
 
 
 
-
 -- Q1. Find the total number of rows in each table of the schema?
 -- Type your code below:
 
