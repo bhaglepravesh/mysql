@@ -5,7 +5,6 @@ USE imdb;
  Further in this segment, you will take a look at 'movies' and 'genre' tables.*/
 
 
-
 -- Segment 1:
 
 
